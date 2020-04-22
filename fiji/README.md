@@ -1,16 +1,25 @@
 # FIJI Government Consumption Expense Table (1950 - 2005)
 
 ##Note
+
 **For original all of countries' expense**
+
+
     look into *UNdata_Export_20181006_090917280.csv*
 
 **For Fiji's expense**
+
+
     look into *fiji_consum_exp.csv*
 
 **On creating Fiji's expense file**
+
+
     look into *UN Government Consumption Expend.ipynb*
 
 **Code for linear regression**
+
+
     look into *linear_regression.py*
 
 credits to UNdata for providing .csv and IBM for code inspiration
